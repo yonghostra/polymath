@@ -1,0 +1,7 @@
+websockets>=13.0
+httpx>=0.27
+pandas>=2.0
+numpy>=1.24
+python-dotenv>=1.0
+# matplotlib>=3.7   # Phase 4 (charts) - next step
+# pytest>=8.0       # optional: run tests with `python -m pytest tests`
